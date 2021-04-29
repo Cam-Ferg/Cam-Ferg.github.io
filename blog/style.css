@@ -94,3 +94,15 @@ z-index: 1030;
 .navbar-brand {
     color: whitesmoke;
 }
+.quote{
+    color: whitesmoke;
+    padding-left: 700px;
+    padding-top: 200;
+    padding-bottom: 0px;
+    font-style: italic;
+}
+.quote2{
+    color: whitesmoke;
+    padding-left: 1300px;
+    font-style: italic;
+}
