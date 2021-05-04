@@ -9,3 +9,16 @@ a {
     color: whitesmoke !important;
     font-size: 15px;
 }
+.quote {
+    color: whitesmoke;
+    padding-left: 950px;
+    padding-top: 100;
+    padding-bottom: 0px;
+    font-style: italic;
+}
+.quote2 {
+    color: whitesmoke;
+    padding-left: 1300px;
+    font-style: italic;
+    font-weight: 200;
+}
